@@ -1,0 +1,13 @@
+PassengerId,Smoke,Sex,Day,Time,SibSp,Parch,Ticket,Fare,Cabin,Tip
+1,0,male,monday,morning,1,0,A/5 21171,7.25,5
+2,1,male,tuesday,afternoon,1,0,PC 17599,71.2833,C85,6
+3,1,female,wednesday,evening,0,0,STON/O2. 3101282,7.925,9
+4,1,male,thuersday,afternoon,1,0,113803,53.1,C123,3
+5,0,male,friday,morning,0,0,373450,8.05,1
+6,0,male,saturday,morning,0,0,330877,8.4583,20
+7,0,male,sunday,afternoon,0,0,17463,51.8625,E46,12
+8,0,female,monday,morning,3,1,349909,21.075,13
+9,1,female,tuesday,evening,0,2,347742,11.1333,54
+10,1,female,wednesday,morning,1,0,237736,30.0708,34
+11,1,male,friday,evening,1,0,237736,30.0708,33
+
